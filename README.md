@@ -8,16 +8,26 @@ Authors: 	Junyu Xiong, Yuyao Zhang, Fuyao Zhang, Yijia Zhang.
 
 ![Image text](https://github.com/xjy0916/PromptReader/blob/main/figure/fig3.png)
 
-## Requirements:
+## Requirements
 
 ```
-  * python==3.7.2
-  * torch==1.8.0+cu111
-  * transformers==4.21.2
-  * spacy==2.3.8
+   python==3.7.2
+   torch==1.8.0+cu111
+   transformers==4.21.2
+   spacy==2.3.8
 ```
 
-## Original Datasets:
+## Datastes
+
+| Data | Description | 
+| --- | --- | 
+| [ASTE-Data-V1](https://github.com/xuuuluuu/SemEval-Triplet-data/tree/master/ASTE-Data-V1-AAAI2020) | These data are originally used in our AAAI-2020 paper:
+
+Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis
+
+https://arxiv.org/pdf/1911.01616.pdf | 
+| [ASTE-Data-V2](https://github.com/xuuuluuu/SemEval-Triplet-data/tree/master/ASTE-Data-V2-EMNLP2020) |  | 
+
 
 You can download the 14-Res, 14-Lap, 15-Res, 16-Res datasets from https://github.com/xuuuluuu/SemEval-Triplet-data.
 Put it into different directories (./data/original/[v1, v2]) according to the version of the dataset.
