@@ -41,9 +41,13 @@ The parameters of model is saved in ./scripts/model/, and the log records are st
 
 ## Authors
 Junyu Xiong @github.com/xjy0916
+
 Email: xjy020916@gmail.com & xjy@dlmu.edu.cn
+
 Site: GitHub
 
 Yijia Zhang @github.com/ItrecTextming
+
 Email: zhangyijia@dlmu.edu.cn
+
 Site: GitHub
