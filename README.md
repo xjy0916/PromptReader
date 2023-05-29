@@ -4,7 +4,9 @@ Code and data of the paper "A Multi-Round MRC Framework incorporating
 Prompt Learning for Aspect Sentiment Triple
 Extraction" 
 
-Authors: 	Junyu Xiong, Yuyao Zhang, Fuyao Zhang, Yijia Zhang
+Authors: 	Junyu Xiong, Yuyao Zhang, Fuyao Zhang, Yijia Zhang.
+
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 
 #### Requirements:
 
