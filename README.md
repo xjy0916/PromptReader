@@ -6,7 +6,7 @@ Extraction"
 
 Authors: 	Junyu Xiong, Yuyao Zhang, Fuyao Zhang, Yijia Zhang.
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/xjy0916/PromptReader/blob/main/figure/fig3.png)
 
 #### Requirements:
 
