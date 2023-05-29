@@ -11,10 +11,10 @@ Authors: 	Junyu Xiong, Yuyao Zhang, Fuyao Zhang, Yijia Zhang.
 ## Requirements:
 
 ```
-  python==3.7.2
-  torch==1.8.0+cu111
-  transformers==4.21.2
-  spacy==2.3.8
+  * python==3.7.2
+  * torch==1.8.0+cu111
+  * transformers==4.21.2
+  * spacy==2.3.8
 ```
 
 ## Original Datasets:
