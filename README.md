@@ -8,20 +8,21 @@ Authors: 	Junyu Xiong, Yuyao Zhang, Fuyao Zhang, Yijia Zhang.
 
 ![Image text](https://github.com/xjy0916/PromptReader/blob/main/figure/fig3.png)
 
-#### Requirements:
+## Requirements:
 
 ```
-  python==3.8.5
-  torch==1.9.0+cu111
-  transformers==4.8.2
+  python==3.7.2
+  torch==1.8.0+cu111
+  transformers==4.21.2
+  spacy==2.3.8
 ```
 
-#### Original Datasets:
+## Original Datasets:
 
 You can download the 14-Res, 14-Lap, 15-Res, 16-Res datasets from https://github.com/xuuuluuu/SemEval-Triplet-data.
 Put it into different directories (./data/original/[v1, v2]) according to the version of the dataset.
 
-#### Data Preprocess:
+## Data Preprocess:
 
 ```
   python ./tools/DataProcessV1.py # Preprocess data from version 1 dataset
@@ -29,7 +30,7 @@ Put it into different directories (./data/original/[v1, v2]) according to the ve
 ```
 The results of data preprocessing will be placed in the ./data/preprocess/.
 
-#### How to run:
+## How to run:
 
 ```
   python ./tools/Main.py --mode train # For training
