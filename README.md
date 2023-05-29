@@ -36,4 +36,7 @@ Authors: 	Junyu Xiong, Yuyao Zhang, Fuyao Zhang, Yijia Zhang.
   python ./scripts/Main.py --mode train 
   python ./scripts/Main.py --mode test 
 ```
-
+The parameters of model is saved in ./scripts/model/, and the log records are stored in ./scripts/log/.
+## Documentation
+scripts
+   |  
