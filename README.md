@@ -1,8 +1,10 @@
-# RoBMRC
+# PromptReader
 
-Code and data of the paper "A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction, NAACL 2022" 
+Code and data of the paper "A Multi-Round MRC Framework incorporating
+Prompt Learning for Aspect Sentiment Triple
+Extraction" 
 
-Authors: 	Shu Liu, Kaiwen Li , Zuhe Li
+Authors: 	Junyu Xiong, Yuyao Zhang, Fuyao Zhang, Yijia Zhang
 
 #### Requirements:
 
